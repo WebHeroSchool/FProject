@@ -1,0 +1,64 @@
+ body {
+  font-family: 'Cormorant SC', serif;
+  background: linen;
+}
+
+.header__title {
+  font-family: 'Podkova', serif;
+  text-align: center;
+  color: maroon;
+  text-shadow: 2px 2px 4px midnightblue;
+  padding: 7px;
+ 
+}
+
+.reg-form {
+  text-align: right;
+  border: 2px;
+  border-style: dotted;
+  border-color: grey;
+
+}
+
+.reg-form__text {
+  font-style: oblique;
+  font-size: large;
+  color: brown;
+}
+
+.reg-form__button {
+  background-color: lightcoral;
+  border-radius: 10px 20px;
+  text-transform: uppercase;
+  font-style: oblique;
+}
+
+.main__title {
+  font-weight: lighter;
+  text-align: center;
+  color: firebrick;
+}
+
+.tabl {
+  columns: 2;
+  column-width: 20px;
+  column-gap: 5px;
+}
+
+.tabl__lesson {
+  color: darkred;
+}
+
+.tabl__img {
+  width: 300px;
+  height: 350px;
+}
+
+.view-form__button {
+  text-transform: uppercase;
+  outline-style: auto;
+}
+
+.footer__title{
+  color: darkred;
+}
